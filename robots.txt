@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://bsun[.]dev/sitemap.xml
+Sitemap: https://bsun.dev/sitemap.xml
 Disallow: /ghost/
 Disallow: /email/
 Disallow: /members/api/comments/counts/
